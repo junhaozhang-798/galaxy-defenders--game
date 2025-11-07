@@ -1,5 +1,11 @@
-# Galaxy Defenders Game - Versión A (hecho por Ana)
+# galaxy-defenders--game
+Galaxy-defenders--game del grupo
 AE1
 
+Junhao Zhang (rama-menu2)
+Ana Garcia (rama-puntuacion)
+Marcos gomez(rama-jugador)
 
-"rama puntuacion" rama-equipo
+
+
+He hecho algo de cambio.
