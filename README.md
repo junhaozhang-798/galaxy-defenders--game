@@ -1,4 +1,5 @@
 # galaxy-defenders--game
 AE1
-He hecho algo de cambio.
-.
+rama-equipo y He hecho algo de cambio.
+
+
