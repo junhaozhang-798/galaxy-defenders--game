@@ -1,3 +1,9 @@
-# galaxy-defenders--game
+# Galaxy Defenders Game - Versión A (hecho por Ana)
 AE1
-conflicto
+ HEAD
+resuelto
+
+
+
+"rama puntuacion" rama-equipo
+ main
