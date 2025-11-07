@@ -1,5 +1,5 @@
-# galaxy-defenders--game
+# Galaxy Defenders Game - Versión A (hecho por Ana)
 AE1
-rama-equipo y He hecho algo de cambio.
 
 
+"rama puntuacion" rama-equipo
