@@ -1,4 +1,4 @@
-# galaxy-defenders--game
+# galaxy-defenders--game del equipo
 
 AE1
 
